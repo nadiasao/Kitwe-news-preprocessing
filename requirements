@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+re
+nltk
+pip install -r requirements.txt
